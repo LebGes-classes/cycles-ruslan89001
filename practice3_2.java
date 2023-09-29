@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class practice3_2 {
     public static void main(String[] args){
+        //5 вариант
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите размер матрицы (n*n)");
         int n = scan.nextInt();

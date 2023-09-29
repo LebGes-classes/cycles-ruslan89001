@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class practice2_1 {
     public static void main(String[] args) {
+        // т.к. дз делал давно, то делал 1 вариант
         Scanner scan = new Scanner(System.in);
         double x = scan.nextDouble();
         double xk = scan.nextDouble();

@@ -3,6 +3,7 @@ import java.lang.Math;
 
 public class practice3_1 {
     public static void main(String[] args){
+        //5 вариант
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите кол-во элементов массива");
         int n = scan.nextInt();
